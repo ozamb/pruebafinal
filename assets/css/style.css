@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    }
+
+    .Logo{
+        max-width: 5%;
+    }
+    
+    .viajeschile{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1.5em;
+    }
+    
+    .icono1 {
+        text-align: center;
+    }
+    .icono2 {
+        text-align: center;
+    }
+
+    .icono3{
+        text-align: center;
+    }
+    
+    li{
+        list-style:none;   
+    }
+    #navbarSupportedContent {
+        color: #ffffff;
+    }
+    
+    .carousel-item{
+        height: 5%;
+        background: no-repeat center center center;
+        background-size: cover;
+    }
+     .iconos a{
+         color: #ffffff;
+     }
+    
+     .viajeschile-nav{
+        font-family: 'Montserrat', sans-serif;
+         color: #ffffff;
+         font-size: 1em;
+     }
